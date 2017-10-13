@@ -12,4 +12,4 @@ npm test
 ```
 
 # Output
-![alt text](https://raw.githubusercontent.com/tusharpandeyasu/MochaRestfulNodeAPITest/blob/master/Mocha_Chai_Output_Snapshot.png)
+![alt text](https://raw.githubusercontent.com/tusharpandeyasu/MochaRestfulNodeAPITest/master/Mocha_Chai_Output_Snapshot.png)
